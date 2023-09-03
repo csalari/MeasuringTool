@@ -6,9 +6,7 @@ This is a custom tool for measuring distances in Unreal Engine. It has an editab
 <br />
 
 
-<h2>Unreal Engine version used</h2>
-
-5.2.1
+[Video Demonstration](https://youtu.be/VwdJMqVVsMM)
 
 <h2>Blueprint structure</h2>
 
